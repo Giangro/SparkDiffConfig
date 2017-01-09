@@ -1,0 +1,3 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/ec2-user/dev/spark/SparkDiffConfig/src/main/resources/201602_KPI_UBB_ACCESS_MOBILE_MENSILE.csv,/home/ec2-user/dev/spark/SparkDiffConfig/target/scala-2.11/classes/201602_KPI_UBB_ACCESS_MOBILE_MENSILE.csv)[0m
+[0m[[0mdebug[0m] [0m	(/home/ec2-user/dev/spark/SparkDiffConfig/src/main/resources/application.conf,/home/ec2-user/dev/spark/SparkDiffConfig/target/scala-2.11/classes/application.conf)[0m

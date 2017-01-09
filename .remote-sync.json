@@ -1,0 +1,16 @@
+{
+  "uploadOnSave": true,
+  "useAtomicWrites": false,
+  "deleteLocal": false,
+  "hostname": "52.31.128.125",
+  "port": "443",
+  "target": "/home/ec2-user/dev/spark/SparkDiffConfig",
+  "ignore": [
+    ".remote-sync.json",
+    ".git/**"
+  ],
+  "username": "ec2-user",
+  "keyfile": "C:\\cygwin64\\home\\Alex\\fer-sirti.pem",
+  "watch": [],
+  "transport": "scp"
+}
